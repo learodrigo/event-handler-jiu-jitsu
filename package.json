@@ -1,0 +1,12 @@
+{
+  "name": "event-handler-jiu-jitsu",
+  "version": "1.0.0",
+  "description": "Event handler from https://www.youtube.com/watch?v=sjCIRLuNFxw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leandro Rodrigo",
+  "license": "MIT"
+}
